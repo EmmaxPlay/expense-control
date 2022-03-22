@@ -14,6 +14,7 @@ function App() {
 
   const handleNuevoGasto = () => {
 
+    
     setModal(true)
 
     setTimeout(() =>{
